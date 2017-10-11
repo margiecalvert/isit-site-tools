@@ -1,6 +1,6 @@
 {
     "name": "mcalvert-isit-site-tools",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Isit tooling for building web sites",
     "main": "index.js",
     "scripts": {
