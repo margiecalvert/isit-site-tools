@@ -7,7 +7,7 @@ describe('Test Image Help Utils', function() {
     'use strict';
 
     const configureTests = require('./configure-tests');
-    //const elfConfig = require('isit-code-calvert').elfConfig;
+    //const elfConfig = require('mcalvert-isit-code').elfConfig;
     const configurationSettings = require('../image-help/index').configSettings;
     it('expects true to be true', function() {
         expect(true).toBe(true);

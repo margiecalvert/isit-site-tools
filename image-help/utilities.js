@@ -2,7 +2,7 @@
  * Created by charlie on 3/3/16.
  */
 
-const elfUtils = require('isit-code-calvert').elfUtils;
+const elfUtils = require('mcalvert-isit-code').elfUtils;
 const path = require('path');
 const fs = require('fs');
 

@@ -9,8 +9,8 @@ const renderer = new marked.Renderer();
 const pug = require('pug');
 const fs = require('fs');
 const utils = require('./utils');
-const elfUtils = require('isit-code-calvert').elfUtils;
-const elfLog = require('isit-code-calvert').elfLog('private-setup-marked');
+const elfUtils = require('mcalvert-isit-code').elfUtils;
+const elfLog = require('mcalvert-isit-code').elfLog('private-setup-marked');
 elfLog.elfName = 'setup-marked';
 const path = require('path');
 

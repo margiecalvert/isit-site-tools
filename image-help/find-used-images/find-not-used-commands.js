@@ -6,8 +6,8 @@ const FindNotUsedCommands = (function() {
     'use strict';
 
     const path = require('path');
-    const elfUtils = require('isit-code-calvert').elfUtils;
-    const elfLog = require('isit-code-calvert').elfLog('find-not-used-commands');
+    const elfUtils = require('mcalvert-isit-code').elfUtils;
+    const elfLog = require('mcalvert-isit-code').elfLog('find-not-used-commands');
     //elfLog.elfName = 'find-not-used-commands';
 
     function FindNotUsedCommands() {

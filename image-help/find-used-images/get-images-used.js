@@ -5,7 +5,7 @@
 module.exports = (function() {
     'use strict';
 
-    const elfLog = require('isit-code-calvert').elfLog('get-images-used');
+    const elfLog = require('mcalvert-isit-code').elfLog('get-images-used');
     let that;
 
     function GetImagesUsed() {

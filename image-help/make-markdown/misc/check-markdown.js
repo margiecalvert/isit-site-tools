@@ -6,10 +6,10 @@ const CheckMarkdown = (function() {
     'use strict';
 
     const configSettings = require('./config-settings');
-    const elfConfig = require('isit-code-calvert').elfConfig;
+    const elfConfig = require('mcalvert-isit-code').elfConfig;
     //const PythonShell = require('python-shell');
     const findDuplicateKeys = require('./find-duplicate-keys');
-    //const elfLog = require('isit-code-calvert').elfLog('check-markdown');
+    //const elfLog = require('mcalvert-isit-code').elfLog('check-markdown');
 
     function checkMarkdown() {
         'use strict';

@@ -2,9 +2,9 @@
  * Created by charlie on 7/21/16.
  */
 
-const elfConfig = require('isit-code-calvert').elfConfig;
-const elfUtils = require('isit-code-calvert').elfUtils;
-// const elfLog = require('isit-code-calvert').elfLog('config-settings');
+const elfConfig = require('mcalvert-isit-code').elfConfig;
+const elfUtils = require('mcalvert-isit-code').elfUtils;
+// const elfLog = require('mcalvert-isit-code').elfLog('config-settings');
 elfConfig.useLocalConfig = true;
 
 function ConfigSettings() {

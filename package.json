@@ -1,5 +1,5 @@
 {
-    "name": "isit-site-tools",
+    "name": "mcalvert-isit-site-tools",
     "version": "1.0.0",
     "description": "Isit tooling for building web sites",
     "main": "index.js",
@@ -20,7 +20,7 @@
     "keywords": [
         "markdown"
     ],
-    "author": "Charlie Calvert",
+    "author": "Margie Calvert",
     "license": "MIT",
     "dependencies": {
         "highlight.js": "^9.12.0",
