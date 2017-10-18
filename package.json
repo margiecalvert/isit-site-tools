@@ -26,6 +26,7 @@
         "highlight.js": "^9.12.0",
         "jsonschema": "^1.2.0",
         "marked": "^0.3.6",
+        "mcalvert-isit-code": "^1.0.1",
         "mkdirp": "^0.5.1",
         "moment": "^2.18.1",
         "pug": "^2.0.0-rc.4",

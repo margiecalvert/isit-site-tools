@@ -1,6 +1,6 @@
 {
     "calvert": {
-        "base-dir": "/home/charlie/",
+        "base-dir": "/home/bcuser/",
         "bootswatch": "cosmo",
         "most-recent-date": "2017-04-06",
         "site-dirs": [
@@ -68,7 +68,7 @@
         },
         {
             "name": "testImages",
-            "baseDir": "/home/charlie/Git/writings/Tech/Markdown",
+            "baseDir": "/home/bcuser/Git/writings/Tech/Markdown",
             "cloudPath": "/images",
             "createSmallImages": true
         }
