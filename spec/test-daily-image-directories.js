@@ -43,12 +43,12 @@ describe('Create directories for each day we took photos', function() {
         //done();
     });
 
-    it('to find unique file name preface', function(done) {
-        const testImages = configurationSettings.getSelectedElvenImage('testImages');
-        createDirectories.run(testImages, function() {
-            expect(true).toBe(true);
-            done();
-        });
-    });
+    //it('to find unique file name preface', function(done) {
+        //const testImages = configurationSettings.getSelectedElvenImage('testImages');
+        //createDirectories.run(testImages, function() {
+            //expect(true).toBe(true);
+            //done();
+        //});
+    //});
 
 });
